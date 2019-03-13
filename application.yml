@@ -11,6 +11,6 @@ spring:
 spring:
  profiles: test #测试环境
  application:
-    name: CloudParentProject-config-test
----	
+   name: CloudParentProject-config-test
+	
 		  
