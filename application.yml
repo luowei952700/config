@@ -12,5 +12,3 @@ spring:
   profiles: test
   application:
     name: CloudParentProject-config-test
-	
-		  
