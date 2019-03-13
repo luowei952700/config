@@ -1,16 +1,16 @@
 ﻿spring:
  profiles:
-   active:
-   - dev
+  active:
+  - dev
 ---
 spring:
-  profiles: dev #开发环境
-  application: 
-    name: CloudParentProject-config-dev
+ profiles: dev #开发环境
+ application: 
+  name: CloudParentProject-config-dev
 ---
 spring:
  profiles: test #测试环境
  application:
-   name: CloudParentProject-config-test
+  name: CloudParentProject-config-test
 	
 		  
